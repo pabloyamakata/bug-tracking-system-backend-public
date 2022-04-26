@@ -1,6 +1,6 @@
 # Sistema de Seguimiento de Errores - Backend
 
-En este repositorio se encuentra almacenado el código backend de la aplicación susodicha. Para ver, en cambio, el repositorio con el código frontend haz click [aquí](https://github.com/pabloyamakata/bug-tracking-system-frontend).
+En este repositorio se encuentra almacenado el código backend del sistema en cuestión. Se trata de una aplicación para el seguimiento de errores de software en proyectos. Para ver el repositorio con el código frontend y obtener una explicación más detallada sobre esta app, haz click [aquí](https://github.com/pabloyamakata/bug-tracking-system-frontend).
 
 Las tecnologías utilizadas en el backend de este proyecto son:
 
@@ -29,7 +29,7 @@ Puedes hacer click [aquí](https://pabloyamakata.github.io/bug-tracking-system-f
 
 # Bug Tracking System - Backend
 
-This repository holds the backend code of the aforementioned application. To see, instead, the repository with the frontend code, click [here](https://github.com/pabloyamakata/bug-tracking-system-frontend).
+This repository holds the backend code of the system in question. It is an application for tracking software bugs in projects. To see the repository with the frontend code and get a more detailed explanation about this application, click [here](https://github.com/pabloyamakata/bug-tracking-system-frontend).
 
 The technologies used in the backend of this project are:
 
